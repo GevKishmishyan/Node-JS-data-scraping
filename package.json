@@ -2,7 +2,7 @@
   "name": "prog3final",
   "version": "1.0.0",
   "description": "Final assigment",
-  "main": "index.js",
+  "main": "scraper1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
